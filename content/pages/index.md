@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-f
     backgroundWidth: full
-    title: This Is A Big Hero Headline
+    title: I'm testing things out
     text: |
       # ben
     actions:
