@@ -66,7 +66,7 @@ sections:
       - content/pages/blog/post-one.md
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-7
